@@ -1,0 +1,57 @@
+/*/build/
+
+.gradle
+/build
+/.kotlin
+/captures
+.externalNativeBuild
+.cxx
+
+# Crashlytics configuations
+com_crashlytics_export_strings.xml
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Gradle generated files
+.gradle/
+
+# Signing files
+.signing/
+
+# User-specific configurations
+/.idea
+.idea/libraries/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/.name
+.idea/kotlinc.xml
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.idea/statistic.xml
+.idea/shelf
+.idea/deploymentTargetDropDown.xml
+.idea/assetWizardSettings.xml
+.idea/render.experimental.xml
+.idea/androidTestResultsUserPreferences.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/caches
+.idea/libraries
+.idea/navEditor.xml
+.idea/codeStyles
+*.iml
+
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
